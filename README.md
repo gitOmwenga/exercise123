@@ -11,7 +11,7 @@ https://pypi.org/project/countryinfo/
 Question 2:
 Libraries installed are:
 requests
-Beautifuksoup4.
+Beautifulsoup4.
 https://www.datacamp.com/community/tutorials/web-scraping-using-python
 
 Question 3:
